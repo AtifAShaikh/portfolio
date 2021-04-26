@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Roboto+Condensed:wght@300&family=Ubuntu:wght@300&display=swap');
+
+.myNav{
+  font-family: 'Ubuntu';
+  color: white;
+  
+}
+
+.navCont{
+  background-image: linear-gradient(to bottom right, #0070d3, #5bb2ff);
+}
+
+.navName{
+  font-size: 50px;
+}
+
+.heroBod{
+  font-family: 'Noto Sans';
+
+}
+
+.projSecBod{
+  background-image: linear-gradient(to bottom right, #0070d3, #5bb2ff);
+}
+
+
+.projTitle{
+  font-family: 'Ubuntu';
+  color: white;
+}
+
+.projCard{
+  font-family: 'Noto Sans';
+  background-color: white;
+  border-radius: 5px;
+}
+
+.sep{
+  height: 2px;
+  background-image: linear-gradient(to right, rgb(202, 202, 202),black,rgb(202, 202, 202));
+}
+
+.contactTitle{
+  font-family: 'Ubuntu';
+}
+
+.contactList{
+  font-family: 'Noto Sans';
+}
+
+.foot{
+  background-image: linear-gradient(to bottom right, #0070d3, #5bb2ff);
+  height: 100px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.navlink{
+  color: white;
+}
+
+.navlink:hover{
+  color: rgb(163, 200, 255);
+}
+
+.projLink{
+  color: black;
+}
+
+.projlink:hover{
+  color: rgb(163, 200, 255);
+}
